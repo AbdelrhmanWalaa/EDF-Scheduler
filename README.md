@@ -21,3 +21,6 @@ To simulate a heavier workload, two additional tasks, Load_1_Simulation and Load
 - Reception and writing of strings from tasks to the UART.
 - Simulation of varying workloads with Load_1_Simulation and Load_2_Simulation.
 - Efficient task execution while maintaining system responsiveness and meeting timing requirements.
+
+## Video Link
+> [EDF Scheduler](https://drive.google.com/file/d/18fT2M_iGboBTeThPvK7_me9P3f5lazBn/view?usp=drive_link)
