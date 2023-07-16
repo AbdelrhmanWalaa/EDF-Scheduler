@@ -23,12 +23,9 @@ To simulate a heavier workload, two additional tasks, Load_1_Simulation and Load
 - Efficient task execution while maintaining system responsiveness and meeting timing requirements.
 
 ## Contributors
-> [Abdelrhman Walaa](https://github.com/AbdelrhmanWalaa)
-- |
-> [Amr El-Abd](https://github.com/AmrElAbd09)
-- |
-> [Mohamed AbdelSalam](https://github.com/m3adel)
-- |
+> [Abdelrhman Walaa](https://github.com/AbdelrhmanWalaa) |
+> [Amr El-Abd](https://github.com/AmrElAbd09) |
+> [Mohamed AbdelSalam](https://github.com/m3adel) |
 > [Hazem Ashraf](https://github.com/hazemashrafali)
 
 ## Video Link
