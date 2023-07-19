@@ -2951,7 +2951,7 @@ TickType_t currentTick;
 						*/
 						#if (configUSE_EDF_SCHEDULER == 1)
 						{
-							if( pxTCB->xTaskPeriod <= pxCurrentTCB->xTaskPeriod )
+							if( (pxTCB)->xStateListItem.xItemValue ) <= ( pxCurrentTCB->xStateListItem.xItemValue )
 							{
 								xSwitchRequired = pdTRUE;
 							}
